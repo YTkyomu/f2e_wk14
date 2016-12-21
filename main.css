@@ -1,0 +1,146 @@
+body{
+  margin: auto;
+  padding: 0px;
+  background-image: url(img/bg_content.png);
+  background-size: auto;
+  background-repeat:no-repeat;
+
+}
+.container{
+  width: 1920px;
+  margin: auto;
+}
+.logo{
+  margin-left: 432px;
+}
+
+.article-header{
+  margin-left: 0px;
+  margin-top: -3.25px;
+  margin-left: 432px;
+  background-color: #EA6568;
+  width: 1015px;
+  height: 72px;
+  border-radius:3px;
+}
+
+.article-header li{
+
+  list-style:none;
+  float:left;
+  font-family:Arial Black;
+  font-size:30px;
+  color:#FFFFFF;
+  margin-top:15px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+.cover{
+
+  padding-left: 432px;
+}
+.word{
+  margin-left: 0px;
+  margin-top: -3.25px;
+
+  background-color: #FCEBC1;
+  width: 1920px;
+  height: 140px;
+  font-size:72px;
+  font-family:cursive;
+  color:#E4896B;
+  text-align: center;
+  padding-top: 36px;
+  margin-bottom: 0px;
+  padding-bottom:0px;
+}
+.more{
+  margin-left: 0px;
+
+  margin-top: -48px;
+  padding-top:0px;
+  height:600px;
+  background: #FCF7F0;
+  margin-bottom: 0px;
+  padding-bottom:0px;
+}
+.more li{
+  list-style:none;
+  float:left;
+  font-size: 60px;
+  color: #34364A;
+  font-family:微軟正黑體;
+}
+.pic1{
+  box-shadow:0px 0px 15px #727272;
+  margin-left:366px;
+}
+.p1{
+  padding-top: 41px;
+  margin-top: 0px;
+  margin-bottom: 41px;
+  padding-left:491px;
+}
+.pic2{
+  box-shadow:0px 0px 15px #727272;
+  margin-left:36px;
+}
+.p2{
+  padding-top: 41px;
+  margin-top: 0px;
+  margin-bottom: 41px;
+  padding-left:287px;
+  padding-left:158px;
+}
+.pic3{
+  box-shadow:0px 0px 15px #727272;
+  margin-left:36px;
+
+}
+.p3{
+  padding-top: 41px;
+  margin-top: 0px;
+  margin-bottom: 41px;
+  padding-left:158px;
+  padding-right:491px;
+}
+.word1{
+    font-family: papyrus, fantasy;
+    color: #34364A;
+    font-size: 48px;
+    text-align: center ;
+
+
+}
+footer{
+  margin-left: 0px;
+
+  margin-top: 0px;
+  float: left;
+  width: 1920px;
+  height: 100px;
+  background: #E85972;
+}
+footer p{
+  float: left;
+  padding-left: 380px;
+  padding-right: 0px;
+  margin-right: 0px;
+  font-family: Arial;
+  color: #FFFFFF;
+  font-size: 30px;
+  padding-right: 0px;
+
+}
+footer img{
+  width: 45px;
+  height: 45px;
+}
+.icon{
+padding-right: 380px;
+  float: right;
+  padding-top: 27.5px;
+}
+.icon1{
+  padding-left: 20px;
+}
